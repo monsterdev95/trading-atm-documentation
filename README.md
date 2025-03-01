@@ -29,7 +29,7 @@ Images to showcase the site.
 To understand how TradingATM works, watch our workflow video:
 
 - **Link to Video File**:
-
+https://drive.google.com/drive/folders/1VDuP3ejbAHmBvuZ_zBW27W0eJ6SKFJEF?usp=drive_link
 
 ## Technical Implementation
 ### Homepage
