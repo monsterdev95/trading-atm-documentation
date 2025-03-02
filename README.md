@@ -31,9 +31,7 @@ To understand how TradingATM works, watch our workflow video:
 <table>
   <tr>
     <td align = "center">
-      <video src="https://raw.githubusercontent.com/monsterdev95/trading-atm-documentation/main/assets/tradingatm-metatrader-multi-copytrading.mp4"
-        width="640" height="360" controls muted loop>
-      </video>
+      <img src="https://raw.githubusercontent.com/monsterdev95/trading-atm-documentation/main/assets/tradingatm-metatrader-multi-copytrading.gif" />
     </td>
   </tr>
 </table>
