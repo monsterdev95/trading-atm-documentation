@@ -29,7 +29,7 @@ Images to showcase the site.
 To understand how TradingATM works, watch our workflow video:
 
 - **Link to Video File**:
-https://drive.google.com/drive/folders/1VDuP3ejbAHmBvuZ_zBW27W0eJ6SKFJEF?usp=drive_link
+
 
 ## Technical Implementation
 ### Homepage
@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1VDuP3ejbAHmBvuZ_zBW27W0eJ6SKFJEF?usp=dri
 - Implemented using ASP.NET, facilitating robust integration with MT4 and MT5 for real-time trade execution and account management.
 
 ### Payment Integration
-To enhance user accessibility, TradingATM incorporates Cryptomus, a third-party cryptocurrency payment platform. This integration allows users to make payments using various cryptocurrencies, aligning with the growing trend of digital asset utilization in financial transactions.
+To enhance user accessibility, TradingATM incorporates CryptoChill, a third-party cryptocurrency payment platform. This integration allows users to make payments using various cryptocurrencies, aligning with the growing trend of digital asset utilization in financial transactions.
 
 ## Role and Responsibilities
 In this project, my primary responsibilities include backend development, where I focus on creating and maintaining the server-side functionalities that support the core operations of the platform. Additionally, I actively participate in the frontend dashboard development to ensure a cohesive user experience across the application.
