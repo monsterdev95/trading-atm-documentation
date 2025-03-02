@@ -28,8 +28,13 @@ Images to showcase the site.
 ## Workflow Video
 To understand how TradingATM works, watch our workflow video:
 
-- **Link to Video File**:
-
+<table>
+  <tr>
+    <td align = "center">
+      <img src="https://raw.githubusercontent.com/monsterdev95/trading-atm-documentation/main/assets/tradingatm-metatrader-multi-copytrading.mp4" />
+    </td>
+  </tr>
+</table>
 
 ## Technical Implementation
 ### Homepage
